@@ -1,0 +1,5 @@
+Congratulations!
+
+You followed the trail.
+
+H&SCTF{the_commit_was_the_clue}
